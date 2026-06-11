@@ -43,9 +43,9 @@ A plataforma conecta usuários e empresas, fornecendo informações sobre pontos
 
 <img width="1014" height="503" alt="Pontos de Descarte" src="https://github.com/user-attachments/assets/baa17f7e-d0fa-4daf-9370-377a356e48b1" />
 
-## 🎯 Objetivo
 
 
-## 👨‍💻 Desenvolvimento
+
+##  Desenvolvimento
 
 Projeto desenvolvido como Projeto Integrador do curso Técnico em Informática, aplicando conceitos de desenvolvimento web, modelagem de banco de dados e engenharia de software.
